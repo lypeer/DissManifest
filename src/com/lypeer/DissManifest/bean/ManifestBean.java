@@ -48,5 +48,6 @@ public class ManifestBean {
             sb.append(failMessge);
         }
         sb.append(Constant.WRAP);
+        sb.append(Constant.WRAP);
     }
 }
